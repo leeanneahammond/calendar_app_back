@@ -1,5 +1,8 @@
 Rails.application.configure do
+<<<<<<< HEAD
   config.react.variant = :development
+=======
+>>>>>>> fd3f96ad1d31b592f10d82e56c48046b99a95da9
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on

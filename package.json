@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "event_calendar",
+=======
+  "name": "calendar",
+>>>>>>> fd3f96ad1d31b592f10d82e56c48046b99a95da9
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
